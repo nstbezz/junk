@@ -3,3 +3,5 @@
 *.session-journal
 __pycache__/
 *.pyc
+.tg_session.json
+.phone_code_hash
